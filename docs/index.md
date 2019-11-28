@@ -1,7 +1,7 @@
 **Name:** *Kerry Bosworth*  
 **Date:** *Nov 27, 2019*  
 **Assignment:** *08*
-https://yukkutobu777.github.io/IntroToProg-Python-Mod08/
+**URL** https://yukkutobu777.github.io/IntroToProg-Python-Mod08/
 
 # Objects and Classes
 
@@ -33,7 +33,10 @@ This is optional but is especially helpful to a user running the program who doe
 ## Assignment Project
 
 In this assignment we added an object class. A normal class can be called directly. In the class definition you start it with @staticmethod. We did this when calling functions used in previous assignments like:
+
+```
 IO.OutputMenuItems()  # Shows menu
+```
 
 An object class called Product can be called indirectly and have multiple objects that are stored in different places. For example:
 
@@ -60,10 +63,10 @@ class MyClassName(MyBaseClassName):
 A class constructor defines the ‘self’. This allows you to load the class once but have multiple instances of a class (a copy of self). Properties use/manage attributes. Methods do the processing.
 After filling out the rest of the classes and building out the main body of the assignment here is the output of the code (see Figure 1 and 2).
 
-![Figure 1](https://yukkutobu777.github.io/IntroToProg-Python-Mod07/Figure1.png "Figure 1")
+![Figure 1](https://yukkutobu777.github.io/IntroToProg-Python-Mod08/Figure8_1.png "Figure 1")
 Figure 1: Run of program in PyCharm
 
-![Figure 2](https://yukkutobu777.github.io/IntroToProg-Python-Mod07/Figure2.png "Figure 2")
+![Figure 2](https://yukkutobu777.github.io/IntroToProg-Python-Mod08/Figure8-2.png "Figure 2")
 Figure 2: Run of program in command line
 
 ## Summary
