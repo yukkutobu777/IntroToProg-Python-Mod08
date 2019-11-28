@@ -1,7 +1,7 @@
 **Name:** *Kerry Bosworth*  
 **Date:** *Nov 27, 2019*  
 **Assignment:** *08*
-**URL** https://yukkutobu777.github.io/IntroToProg-Python-Mod08/
+**URL** *https://yukkutobu777.github.io/IntroToProg-Python-Mod08/*
 
 # Objects and Classes
 
